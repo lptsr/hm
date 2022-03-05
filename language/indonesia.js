@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu 𝑳𝒖𝒏𝒂𝒊𝒓 𝑩𝒐𝒕𝒛-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -709,6 +709,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Rashid
 ├ ZeeoneOfc
 ├ Penyedia Module
+├ Abng Gaara Gans
+├ Lennicans 
 ╰❒ And All Support
     `
 }
@@ -744,14 +746,14 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan 𝑳𝒖𝒏𝒂𝒊𝒓 𝑩𝒐𝒕𝒛 di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
 Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
 😖🙏
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
+	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 sayang><
 	
 ╭ 𝖭𝖺𝗆𝖺 :
 ├ 𝖴𝗆𝗎𝗋 :
@@ -760,7 +762,7 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 😣 nitip dosa kak >.<
 Goodbye`
 }
 exports.source = () =>{
@@ -1383,6 +1385,8 @@ exports.tqto = () =>{
 ├ Rashid
 ├ ZeeoneOfc
 ├ Penyedia Module
+├ Abng Gaara Gans
+├ Lennicans
 ╰❒ And All Support
 `
 }
